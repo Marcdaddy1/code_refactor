@@ -2,7 +2,7 @@
 
 ## Description
 
-Refactoring Horiseon website to make it more accessible. make sure that all links are functioning correctly. Also, rework the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+Refactoring Horiseon website to make it more accessible, and ensure that all links are functioning correctly. Also, rework the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
 ## User Story
 
