@@ -7,8 +7,8 @@ Refactoring Horiseon website to make it more accessible, and ensure that all lin
 ## User Story
 
 AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT Horiseon site is optimized for search engines
+I want a codebase that follows accessibility standards
+So that Horiseon site is optimized for search engines
 
 ## Acceptance Criteria
 
